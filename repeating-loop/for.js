@@ -9,6 +9,6 @@
 // }
 
 // inicializei, condição, decremento
-for (let i = 40; i; i--) {
+for (let i = 40; i == 0; i--) {
     console.log(i, 'test >= 0e')
 }
